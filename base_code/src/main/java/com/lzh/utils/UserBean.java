@@ -116,7 +116,7 @@ public class UserBean {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		File file = new File("E:\\user_json2.txt");
+		File file = new File("E:\\user_main.txt");
 		try {
 			InputStream is = new FileInputStream(file);
 			
