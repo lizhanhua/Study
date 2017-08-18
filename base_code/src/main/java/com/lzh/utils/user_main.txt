@@ -1,0 +1,1 @@
+{"vendor_code":"604111","vendor_id":"604111","user_id":"41951","shop_id":"17403","user":"604111","jobnumber":"00001","permission":"_0_1_2_3_4_5_6_7_8_9_10_","user_type":"3","shops":"17403","codes":"604111","nickname":"nil","type":"3","axdata":"NzM4MDZmYTRiODFkNjkxNTU5MzBmMzlmZGEzMzE1YWY1ZTQ0OTIxNTU2NjY3MjkzMGEyNTA4NzUwNGE0ODNmZQ=="}
